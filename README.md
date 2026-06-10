@@ -1,8 +1,12 @@
-<h1 align="center">Hey 👋, I'm Gaurav Kumar</h1> 
-<h3 align="center">Passionate Software Developer</h3> 
+<h1 align="center">Hey 👋, I'm Gaurav Kumar</h1>
+
 <h3 align="center">
-Frontend Developer | React.js | Next.js | TypeScript | Node.js | Express.js 
+Frontend Developer | React.js | Next.js | TypeScript | Node.js | Express.js
 </h3>
+
+<p align="center">
+Passionate about creating performant web applications and growing into Full Stack Development.
+</p>
 
 ### 👨‍💻 About Me 
 
